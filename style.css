@@ -5,8 +5,9 @@
     --accent-sunset: #ff7f50;
     --bg-light: #f9f9f9;
     --text-main: #333;
-    --glass: rgba(255, 255, 255, 0.8);
-    --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --glass: rgba(255, 255, 255, 0.85);
+    --shadow: 0 10px 30px rgba(0,0,0,0.08);
+    --transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 
 * {
